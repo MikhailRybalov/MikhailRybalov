@@ -6,7 +6,7 @@
 </div> 
 
 <div id="aboutme" align="left">
-  <h5>About me<h5>
+  About me
   - Currently I am continuing my studies. <br>
   - Know about my experiences
 </div>
