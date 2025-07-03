@@ -18,6 +18,7 @@
 </div>
 
 <div id="socials" align="center">
+  <h5>my contacts</h5>
   <a href="https://t.me/meomews">
     https://t.me/meomews
   </a>
