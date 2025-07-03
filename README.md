@@ -5,8 +5,10 @@
   <h5>My name is Mikhail, I am 20 years old, I live in Orel, Russia. I received secondary vocational education in web development. At the moment I am getting a higher education, studying part-time. I have work experience as part of my studies.</h5>
 </div> 
 
-<div id="aboutme" align="right">
-  111
+<div id="aboutme" align="left">
+  <p>About me</p>
+  <p>- Currently I am continuing my studies. </p>
+  <p>- Know about my experiences </p>
 </div>
 
 <div id="socials" align="center">
