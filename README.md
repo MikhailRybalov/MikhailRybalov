@@ -18,11 +18,13 @@
 </div>
 
 <div id="socials" align="center">
-  <h5>my contacts</h5>
+  <h5>My contacts</h5> <br>
+  Telegram:
   <a href="https://t.me/meomews">
     https://t.me/meomews
   </a>
   <br>
+  Email:
   <a href="mailto:jethuuyou@gmail.com">
    jethuuyou@gmail.com
   </a>
