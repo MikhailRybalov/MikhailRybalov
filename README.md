@@ -18,7 +18,7 @@
 </div>
 
 <div id="socials" align="center">
-  <h5>My contacts</h5> <br>
+  <h5>My contacts</h5> 
   Telegram:
   <a href="https://t.me/meomews">
     https://t.me/meomews
