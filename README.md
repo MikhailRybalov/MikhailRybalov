@@ -7,8 +7,8 @@
 
 <div id="aboutme" align="left">
   <p>About me</p>
-  <p>- Currently I am continuing my studies. </p>
-  <p>- Know about my experiences </p>
+  - Currently I am continuing my studies. 
+  - Know about my experiences
 </div>
 
 <div id="socials" align="center">
