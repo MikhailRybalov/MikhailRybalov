@@ -6,9 +6,9 @@
 </div> 
 
 <div id="aboutme" align="left">
-  About me
+  About me <br>
   - Currently I am continuing my studies. <br>
-  - Know about my experiences
+  - Know about my experiences .[CV].(cv-link)
 </div>
 
 <div id="socials" align="center">
