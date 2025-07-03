@@ -7,10 +7,11 @@
 
 <div id="socials" align="center">
   <a href="https://t.me/meomews">
-  <img src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000" wi>
   </a>
 </div>
 <br>
+### Languages and tools
 <div id="languages" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60">
