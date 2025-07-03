@@ -6,7 +6,7 @@
 </div> 
 <div id="socials" align="center">
   <a href="https://t.me/meomews">
-    <img url="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logocolor=white" alt="telegram"/>
+    <img url="[https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logocolor=whit](https://t.me/meomews)" alt="telegram"/>
   </a>
 </div>
 
