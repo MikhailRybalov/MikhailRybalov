@@ -7,7 +7,7 @@
 
 <div id="socials" align="center">
   <a href="https://t.me/meomews">
-  telegram
+  <img src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000">
   </a>
 </div>
 <br>
