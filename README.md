@@ -19,7 +19,7 @@
 
 <div id="socials" align="center">
   <a href="https://t.me/meomews">
-    <img src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000">
+    https://t.me/meomews
   </a>
   <a href="mailto:jethuuyou@gmail.com">
    jethuuyou@gmail.com
